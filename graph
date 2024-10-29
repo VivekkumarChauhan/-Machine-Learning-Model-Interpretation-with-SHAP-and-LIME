@@ -1,0 +1,11 @@
+model_interpretation_project/
+├── data/
+│   └── heart_disease.csv           # Dataset for heart disease classification
+├── notebooks/
+│   └── Model_Interpretation.ipynb  # Jupyter Notebook for the project
+├── scripts/
+│   ├── data_preprocessing.py       # Script for data cleaning and preprocessing
+│   ├── model_training.py           # Script for model training
+│   └── interpretation.py           # Script for SHAP and LIME interpretation functions
+├── requirements.txt                # List of required Python libraries
+└── README.md                       # Project documentation
